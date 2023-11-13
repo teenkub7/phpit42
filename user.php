@@ -9,7 +9,7 @@ $result = $con->query($sql);
         <div class="card-header bg-primary text-white">ข้อมูลuser</div>
         <div class="card-body">
             <a href="adduser.php" class="btn btn-outline-success mb-3"><i
-                    class="bi bi-person-plus-fill"></i>เพื่อข้อมูล</a>
+                    class="bi bi-person-plus-fill"></i>เพิ่มข้อมูล</a>
             <table class="table table-striped">
                 <tr>
                     <th class="bg-success text-white">ลําดับที่</th>
